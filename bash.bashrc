@@ -59,5 +59,5 @@ unset _ps1_symbol
 # Fixup git-bash in non login env
 shopt -q login_shell || . /etc/profile.d/git-prompt.sh
 
-cd D:/@data/GitHub/PowerShell
+cd D:/@data/GitHub/PowerShell/
 alias cls='clear'
